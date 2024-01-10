@@ -1,6 +1,9 @@
 # fbgh6-slim-skirt
 Flying Bear Ghost 6 slim skirt for electronics placement
 
+
+<img src="https://raw.githubusercontent.com/basson/fbgh6-slim-skirt/main/images/priview_1.jpg" width="400">
+
 Add parametric *.stp file.
 
 ## Additional parts
