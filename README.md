@@ -41,8 +41,8 @@ Infill: 15-20
 
 YouTube Transalations - https://www.youtube.com/@basson_xvi/streams
 
-Thingiverse - https://www.thingiverse.com/thing:6315428
+Thingiverse - https://www.thingiverse.com/thing:6427349
 
-Printables - https://www.printables.com/model/647956-qum-diy-headphones/files
+Printables - https://www.printables.com/model/716319-flying-bear-ghost-6-slim-skirt-for-electronics-pla
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/basson)
