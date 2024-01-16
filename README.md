@@ -10,7 +10,7 @@ Add parametric *.stp file.
 
 Screw 12-16mm m3 - 16 pieces
 
-Screw 16-29mm m3 - 4 pieces
+Screw 16-29mm m4 - 4 pieces
 
 Nuts m3 - 16 pieces
 
